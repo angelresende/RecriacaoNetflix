@@ -24,7 +24,7 @@ Desafio feito no Bootcamp de **everis FullStack Developer**, que consiste na rec
 .
 
 Nesse projeto recriei a interface do site da Netflix, utilizando as tecnologias **HTML5**, **CSS3** e **JavaScript**. 
-Durante o desenvolvimento deste projeto, foi visto como estruturar um layout, as técnicas de CSS3 com containers e variáveis, como posicionar os elementos com Flexbox e como utilizar plugins Jquery, entre outros contéudos.
+Durante o desenvolvimento deste projeto, foi visto como estruturar um layout, as técnicas de CSS3 com containers e variáveis, como posicionar os elementos com Flexbox e como utilizar plugins Jquery, entre outros conteúdos.
 
 ## 🛠️ Tecnologias Utilizadas
 
