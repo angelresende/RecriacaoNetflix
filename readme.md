@@ -8,7 +8,7 @@
 <h2>
 
 <h2 align="center">
-<img alt="layout" src= "image/interface.png" width="600px">
+<img alt="layout" src= "https://github.com/angelresende/RecriacaoNetflix/blob/main/Image/interface.PNG" width="600px">
 </h2>
 
 <h5 align="center">
